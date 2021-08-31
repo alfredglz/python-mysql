@@ -1,10 +1,23 @@
-# python-mysql
-python and mysql practices extracting data from a database.
+# CSV to SQL Table Converter
 
-Using:
-- sys
-- csv
-- random
-- mysql.connector
-- pandas
-- faker (for generating random data)
+A Piece of code that helps with table creation based on csv/xlsx files
+
+## Configuration
+
+```python
+py config.py
+```
+
+Ask for database credentials
+
+
+## Execution
+
+```python
+py execute.py
+```
+
+Select the csv file.
+
+Manually define the data types.
+
