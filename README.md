@@ -8,7 +8,14 @@ A Piece of code that helps with table creation based on csv/xlsx files
 py config.py
 ```
 
-Ask for database credentials
+Ask for database configuration
+```python
+print("Insert database configuration:")
+host = input("host:")
+user = input("user:")
+password = input("password:")
+database = input("database:")
+```
 
 
 ## Execution
