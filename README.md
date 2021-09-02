@@ -10,6 +10,14 @@ py config.py
 
 Ask for database configuration
 
+```python
+Insert database configuration:
+host:localhost
+user:root
+password:
+database:sales
+```
+
 ## Execution
 
 ```python
