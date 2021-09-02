@@ -10,7 +10,7 @@ py config.py
 
 Ask for database configuration
 
-```python
+```cmd
 Insert database configuration:
 host:localhost
 user:root
